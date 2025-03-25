@@ -1,2 +1,13 @@
-# demo_python_mailerlite
-demo de como escribir datos en mailerlite con python
+# Proyecto para agregar datos en MailerLite usando Python
+
+Creado para la Incluton2025
+
+# Librería necesaria
+
+```
+pip install mailerlite
+```
+
+# Referencia
+
+https://github.com/mailerlite/mailerlite-python
